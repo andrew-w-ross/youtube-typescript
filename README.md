@@ -1,23 +1,10 @@
-# ReduxSimpleStarter
+# youtube-typescript
 
-###Getting Started###
+A simple project done for the [react-redux course](https://www.udemy.com/react-redux) on udemy.
+The only twist is this is done in typescript instead of just es6.
 
-There are two methods for getting started with this repo.
+##Setup
 
-####Familiar with Git?#####
-Checkout this repo, install depdencies, then start the gulp process with the following:
-
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
-
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-	> npm install
-	> npm start
-```
+- Run `npm install`
+- Then run `npm start`
+- open [localhost:80/webpack-dev-server](localhost:8080/webpack-dev-server/)

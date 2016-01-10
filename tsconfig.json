@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"target": "es2015",
+		"module": "commonjs",
+		"jsx": "preserve"
+	},
+	"exclude": [
+		"node_modules",
+		"typings"
+	],
+	"awesomeTypescriptLoaderOptions":{
+		"useBabel":true,
+		"forkChecker":true
+	}
+}

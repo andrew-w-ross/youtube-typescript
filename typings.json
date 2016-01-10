@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "youtube-api-search": "github:andrew-w-ross/typings-youtube-api-search"
+  },
+  "devDependencies": {},
+  "ambientDependencies": {
+    "lodash": "github:DefinitelyTyped/DefinitelyTyped/lodash/lodash.d.ts#587f470b5e235dfed0f9d1681f6da536cfb60eec",
+    "youtube-api-search": "github:andrew-w-ross/typings-youtube-api-search"
+  }
+}
